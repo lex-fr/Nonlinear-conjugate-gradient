@@ -1,3 +1,7 @@
 
 # Folder
 .vscode/
+
+.bin/
+
+.obj/
