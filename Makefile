@@ -11,7 +11,7 @@ BINDIR := bin
 TEXDIR := latex
 DOCDIR := docs
 
-TARGET = proyecto
+TARGET = nlcg
 
 INCLUDES := $(wildcard $(SRCDIR)/*.h*)
 SOURCES  := $(wildcard $(SRCDIR)/*.cpp)

@@ -1,11 +1,22 @@
-Compilacion: 
+# Nonlinear Conjugate Gradient Method
 
+## Beta implemented:
+
+- Fletcher Reeves 
+- Polak Ribiere 
+- Hestenes Stiefel 
+- RMIL 
+- AMRI 
+
+## Compile: 
+
+```
 make
+```
 
-Ejecucion:
+## Execute:
 
-programa x0 maxitr tol
+```
+./bin/nlcg
+```
 
-Ejemplo de ejecucion:
-
-./bin/tarea12 ./data/p1.txt 1000 0.005
